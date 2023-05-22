@@ -1,6 +1,8 @@
 # Material Mastodon
 An attempt to recreate [ModernDeck's](https://github.com/dangeredwolf/ModernDeck/) look and feel for Mastodon instances
 
+ [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/Cinnab0nBak3ry/MaterialMastodon/raw/main/MaterialMastodon.user.css)
+
 work in progress
 
 if your instance isnt in the user.css it isnt anything personal it just means i didnt know your 5 person instance where you jerk off richard stallman all day existed
