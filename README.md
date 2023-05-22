@@ -1,4 +1,5 @@
-# Material Mastodon
+![image](https://github.com/Cinnab0nBak3ry/MaterialMastodon/assets/76500838/5439f4aa-d12e-4b9a-9866-c493cd1759be)
+
 An attempt to recreate [ModernDeck's](https://github.com/dangeredwolf/ModernDeck/) look and feel for Mastodon instances
 
  [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/Cinnab0nBak3ry/MaterialMastodon/raw/main/MaterialMastodon.user.css)
