@@ -8,6 +8,7 @@ work in progress
 <details>
 <summary>Drawer on hover</summary>
   
-![image](https://github.com/Cinnab0nBak3ry/MaterialMastodon/assets/76500838/d5a3e510-4794-49f2-a2a4-6c30c7e3e5d9)
+![image](https://github.com/Cinnab0nBak3ry/MaterialMastodon/assets/76500838/3101d5d3-b363-41cb-aa2f-138d2cf3eec4)
+
   
 </details>
