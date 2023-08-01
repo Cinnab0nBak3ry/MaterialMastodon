@@ -17,3 +17,7 @@ if your instance isnt in the user.css it isnt anything personal it just means i 
 
   
 </details>
+
+___
+
+also see on: https://userstyles.world/style/11265/material-mastodon
